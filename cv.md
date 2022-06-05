@@ -1,13 +1,11 @@
 # OLEKSII ZAITSEV
 
----
-
 ## Contacts
 
 - Ukraine. Zaporizhzhia
 - tel +38(066)479-11-90
-- [Linkedin] (https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B7%D0%B0%D0%B9%D1%86%D0%B5%D0%B2-b04825210/)
 - Email: zaaytav@gmail.com
+  [Linkedin] (https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B7%D0%B0%D0%B9%D1%86%D0%B5%D0%B2-b04825210/)
 
 ---
 
@@ -17,15 +15,15 @@
 
 ## Projects
 
-- [IceCream] (https://icecream-group-15.github.io/parcel-project-template/) \*[HTML, CSS, Parcel] team project. A website with a responsive layout
-- [Filmoteka] (https://zav.netlify.app/) \*[JavaScript, HTML, CSS, Parcel, Rest
-  API] team project. A website with a responsive layout
-- [Kaspusta] (https://github.com/HannaHryhorieva/kapusta-seven-front) \*[React, JavaScript, HTML, CSS] team
-  project. Accounting for finances
+[IceCream] (https://icecream-group-15.github.io/parcel-project-template/) [HTML, CSS, Parcel] team project. A website with a responsive layout
+[Filmoteka] (https://zav.netlify.app/) [JavaScript, HTML, CSS, Parcel, Rest
+API] team project. A website with a responsive layout
+[Kaspusta] (https://github.com/HannaHryhorieva/kapusta-seven-front) [React, JavaScript, HTML, CSS] team
+project. Accounting for finances
 
 ---
 
-##Tech Skills
+## Tech Skills
 
 - HTML
 - CSS
@@ -37,7 +35,7 @@
 
 ---
 
-##Code example:
+## Code example:
 
 ```
 function quickCheck(arr, elem) {
@@ -59,7 +57,7 @@ GoIT Academy FullStack developer
 
 ---
 
-##Language
+## Language
 
 - English - Pre-Intermediate
 - Ukranian - Native
