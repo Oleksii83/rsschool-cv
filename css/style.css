@@ -88,7 +88,7 @@ width: 370px;
     font-weight: 400;
     line-height: 24px;
     color: #ff6b08;
-    margin-left: 15px;
+    margin-left: 5px;
 }
 
 .tech-skills-text{
@@ -96,9 +96,9 @@ width: 370px;
 }
 
 .soft-skills-container{
-    margin-left: 15px;
-    margin-right: 15px;
-    margin-top: 45px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
 }
 
 .soft-skills-title{
