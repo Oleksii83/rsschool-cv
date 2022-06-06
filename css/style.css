@@ -147,9 +147,11 @@ width: 370px;
     margin-bottom: 64px;
 }
 .project-title{
+
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
+    padding-top: 15px;
     margin-bottom: 10px;
 }
 .project-link{
