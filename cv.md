@@ -15,11 +15,11 @@
 
 ## Projects
 
-- [IceCream](https://icecream-group-15.github.io/parcel-project-template/) [HTML, CSS, Parcel] team project. A website with a responsive layout
+- [IceCream](https://icecream-group-15.github.io/parcel-project-template/) [HTML, CSS, Parcel] team project. A website with a responsive layout.
 - [Filmoteka](https://zav.netlify.app/) [JavaScript, HTML, CSS, Parcel, Rest
-  API] team project. A website with a responsive layout
+  API] team project. A website with a responsive layout.
 - [Kaspusta](https://github.com/HannaHryhorieva/kapusta-seven-front) [React, JavaScript, HTML, CSS] team
-  project. Accounting for finances
+  project. Accounting for finances.
 
 ---
 
