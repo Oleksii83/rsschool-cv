@@ -129,10 +129,11 @@ width: 370px;
 
 }
 .name{
-    font-size: 45px;
+    padding: 10px 20px;
+    /* font-size: 45px;
     font-weight: 700;
     line-height: 89px;
-    margin-bottom: 24px;
+    margin-bottom: 24px; */
 }
 .about-me{
     font-family: Montserrat;
@@ -215,4 +216,34 @@ margin-bottom: 55px;
     line-height: 24px;
     margin-top: 10px;
     margin-bottom: 5px;
+}
+
+/* footer */
+
+footer{
+   padding-top: 20px;
+   padding-bottom: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 20px 20px rgb(0 0 0 / 15%);
+    background-color: #ffffff;
+}
+
+.footer-list{
+    list-style-type: none;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+ 
+}
+
+.footer-logo-icon{
+    width: 100px;
+  
+}
+
+.footer-logo-github{
+    width: 30px;
+    
 }
